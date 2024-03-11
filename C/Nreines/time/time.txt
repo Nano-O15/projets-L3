@@ -1,0 +1,60 @@
+n : 1	 
+Nombre total de solutions : 1
+Time : 8	
+
+n : 2	 
+Nombre total de solutions : 0
+Time : 7	
+
+n : 3	 
+Nombre total de solutions : 0
+Time : 10	
+
+n : 4	 
+Nombre total de solutions : 2
+Time : 27	
+
+n : 5	 
+Nombre total de solutions : 10
+Time : 61	
+
+n : 6	 
+Nombre total de solutions : 4
+Time : 167	
+
+n : 7	 
+Nombre total de solutions : 40
+Time : 565	
+
+n : 8	 
+Nombre total de solutions : 92
+Time : 1999	
+
+n : 9	 
+Nombre total de solutions : 352
+Time : 2244	
+
+n : 10	 
+Nombre total de solutions : 724
+Time : 10782	
+
+n : 11	 
+Nombre total de solutions : 2680
+Time : 55609	
+
+n : 12	 
+Nombre total de solutions : 14200
+Time : 311504	
+
+n : 13	 
+Nombre total de solutions : 73712
+Time : 1834189	
+
+n : 14	 
+Nombre total de solutions : 365596
+Time : 11774710	
+
+n : 15	 
+Nombre total de solutions : 2279184
+Time : 77610119	
+
